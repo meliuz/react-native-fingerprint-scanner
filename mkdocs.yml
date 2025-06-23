@@ -1,0 +1,6 @@
+---
+site_name: react-native-fingerprint-scanner
+nav:
+  - Home: README.md
+plugins:
+  - techdocs-core

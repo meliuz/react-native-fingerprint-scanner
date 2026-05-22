@@ -5,9 +5,8 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: meliuz/react-native-fingerprint-scanner
-  description: '# React Native Fingerprint Scanner
-
-    '
+  description: |
+    # React Native Fingerprint Scanner
   name: react-native-fingerprint-scanner
 spec:
   lifecycle: production
